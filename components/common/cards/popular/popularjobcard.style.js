@@ -28,6 +28,7 @@ const styles = StyleSheet.create({
     fontSize: SIZES.medium,
     fontFamily: FONT.regular,
     color: "#B3AEC6",
+    // color:"#FFF",
     marginTop: SIZES.small / 1.5,
   },
   infoContainer: {
